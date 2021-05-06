@@ -2,7 +2,11 @@
   "name": "pl-lambda-calculi",
   "private": true,
   "description": "Collection of various lambda calculus's implementations.",
-  "scripts": {},
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build --stream",
+    "test": "lerna run test --stream"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ENvironmentSet/pl-lambda-calculi.git"
