@@ -1,0 +1,24 @@
+{
+  "name": "pl-lambda-calculi",
+  "private": true,
+  "description": "Collection of various lambda calculus's implementations.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENvironmentSet/pl-lambda-calculi.git"
+  },
+  "author": "ENvironmentSet",
+  "license": "ISC",
+  "homepage": "https://github.com/ENvironmentSet/pl-lambda-calculi#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3",
+    "lerna": "^4.0.0",
+    "ts-jest": "^26.5.6",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "fp-ts": "^2.10.5",
+    "parser-ts": "^0.6.13"
+  }
+}
