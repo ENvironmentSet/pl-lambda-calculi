@@ -1,0 +1,12 @@
+{
+  "name": "untyped",
+  "description": "implementation of untyped lambda calculus",
+  "index": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "ENvironmentSet",
+  "license": "ISC"
+}
